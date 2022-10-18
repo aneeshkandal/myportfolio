@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/https.//aneeshkandal.github.io/myportfolio/static/css/main.0f2e054b.css",
-    "main.js": "/https.//aneeshkandal.github.io/myportfolio/static/js/main.66fcd181.js",
-    "static/media/heroImage.JPG": "/https.//aneeshkandal.github.io/myportfolio/static/media/heroImage.f0d93ff2355d773c9a44.JPG",
-    "static/media/cpp.png": "/https.//aneeshkandal.github.io/myportfolio/static/media/cpp.64f637357bce0ccc8384.png",
-    "static/media/react.png": "/https.//aneeshkandal.github.io/myportfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/resumeBuilder.png": "/https.//aneeshkandal.github.io/myportfolio/static/media/resumeBuilder.90b9673e0643121b40c5.png",
-    "static/media/github.png": "/https.//aneeshkandal.github.io/myportfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/https.//aneeshkandal.github.io/myportfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/https.//aneeshkandal.github.io/myportfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/java.png": "/https.//aneeshkandal.github.io/myportfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
-    "static/media/css.png": "/https.//aneeshkandal.github.io/myportfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/android.png": "/https.//aneeshkandal.github.io/myportfolio/static/media/android.50f261e92c03250448aa.png",
-    "static/media/javascript.png": "/https.//aneeshkandal.github.io/myportfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/https.//aneeshkandal.github.io/myportfolio/index.html",
-    "main.0f2e054b.css.map": "/https.//aneeshkandal.github.io/myportfolio/static/css/main.0f2e054b.css.map",
-    "main.66fcd181.js.map": "/https.//aneeshkandal.github.io/myportfolio/static/js/main.66fcd181.js.map"
+    "main.css": "./static/css/main.0f2e054b.css",
+    "main.js": "./static/js/main.6673bd67.js",
+    "static/media/heroImage.JPG": "./static/media/heroImage.f0d93ff2355d773c9a44.JPG",
+    "static/media/cpp.png": "./static/media/cpp.64f637357bce0ccc8384.png",
+    "static/media/react.png": "./static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/resumeBuilder.png": "./static/media/resumeBuilder.90b9673e0643121b40c5.png",
+    "static/media/github.png": "./static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "./static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "./static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/java.png": "./static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/css.png": "./static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/android.png": "./static/media/android.50f261e92c03250448aa.png",
+    "static/media/javascript.png": "./static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "./index.html",
+    "main.0f2e054b.css.map": "./static/css/main.0f2e054b.css.map",
+    "main.6673bd67.js.map": "./static/js/main.6673bd67.js.map"
   },
   "entrypoints": [
     "static/css/main.0f2e054b.css",
-    "static/js/main.66fcd181.js"
+    "static/js/main.6673bd67.js"
   ]
 }
